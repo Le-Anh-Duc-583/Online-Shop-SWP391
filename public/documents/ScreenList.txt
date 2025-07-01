@@ -1,0 +1,24 @@
+-Login 
+-Register(Signup)
+-Homepage
+-Profile
+-Reset/change password
+-Saler register
+-Product management(admin)
+-Product management(saler)
+-edit products(saler)
+-edit saler(SalerManager)
+-edit SalerManger(admin)
+-Saler Dashboard
+-Order history
+-Order detail
+-DeleteUser
+-Order acceptance
+-Contact us
+-About
+-Product detail
+-check out
+-confirm
+-view cart
+-view products
+-Homepage(admin)
